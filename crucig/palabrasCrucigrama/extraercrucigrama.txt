@@ -1,0 +1,25 @@
+CALLBACK,1,15,7,H,Función argumento de otra función y se ejecuta después de que la función llamada completa su tarea
+MEMORY,2,6,6,H,Almacenamiento utilizado para guardar y acceder a datos en un sistema informático
+STACK,1,7,5,H,Estructura de datos que organiza elementos en orden LIFO
+QUEUE,1,8,5,H,Estructura de datos que organiza elementos en orden FIFO
+MODULE,1,9,6,H,Componente de software que contiene funciones y se puede importar y exportar en otros programas
+INHERIT,10,1,7,H,Característica de la programación orientada a objetos que permite a una clase adquirir propiedade
+PROMISE,11,1,7,H,Objeto que representa el resultado eventual de una operación asíncrona en JavaScript
+LAMBDA,12,1,6,H,Función anónima o función sin nombre utilizada en lenguajes de programación
+RECURSION,13,1,9,H,Proceso en el cual una función se llama a sí misma como una subrutina
+FUNCTION,14,1,8,H,Bloque de código que realiza una tarea específica y puede ser llamado por su nombre
+ITERATOR,1,3,8,H,Objeto que permite recorrer una colección de elementos de forma secuencial
+ENCAPSULATION,1,5,13,H,Oculta detalles de implementación y expone solo funcionalidad necesaria
+POLIMORFISMO,9,1,11,H,Permite tratar objetos de diferentes clases como objetos de una clase común
+ABSTRACTION,1,9,11,H,Proceso de simplificar y generalizar características comunes de objetos en OOP
+EXCEPTION,1,11,9,H,Evento que ocurre durante la ejecución de un programa que interrumpe el flujo normal del programa
+DEBUGGING,1,13,9,H,Proceso de identificar y corregir errores en el código fuente de un programa
+NULL,2,4,4,V,Valor especial utilizado en programación para indicar que una referencia no apunta a ningún objeto
+VARIABLE,3,4,8,H,Elemento en programación que almacena un valor y puede cambiar durante la ejecución del programa
+INTERFACE,4,4,9,V,Definición de métodos y propiedades que una clase debe implementar en programación orientada a objetos
+CONSTRUCTOR,5,4,11,V,Método especial en programación orientada a objetos que se utiliza para crear e inicializar objetos
+DESTRUCTOR,7,4,10,V,Método que libera recursos antes de que un objeto sea destruido
+PROTOTYPE,9,4,9,V,Objeto base del cual otros objetos heredan propiedades y métodos en JavaScript
+INHERITANCE,11,4,11,V,Relación entre clases en programación orientada a objetos en la que una clase hereda características 
+COMPOSITION,13,4,11,V,Relación entre clases en programación orientada a objetos en la que una clase contiene instancias
+ALGORITHM,15,4,9,V,Conjunto de instrucciones o reglas bien definidas para resolver un problema o realizar una tarea
